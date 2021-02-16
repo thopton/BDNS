@@ -337,3 +337,4 @@ water treatment - dosing pot,DPOT,IfcDistributionFlowElement,NOTDEFINED
 water treatment - electro magnetic water conditioner,EMWC,IfcFlowTreatmentDevice,
 weather station,WST,IfcUnitaryControlElement,WEATHERSTATION
 window,WINDOW,IfcWindow,NOTDEFINED
+Differential Pressure Sensor - DPS
